@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "アンビシャスナイト",
+  "base_artist": "レオード(CV.増田俊樹)",
+  "createdAt": "2026-02-16T15:55:49.328688Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンビシャスナイト",
+      "artist": "レオード(CV.増田俊樹)",
+      "has_synced": true,
+      "path": "select/01_アンビシャスナイト_レオード(CV.増田俊樹).lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンビシャスナイト",
+      "artist": "レオード(CV:増田俊樹)",
+      "has_synced": false,
+      "path": "select/pl_01_アンビシャスナイト_レオード(CV_増田俊樹).txt"
+    }
+  ]
+}
